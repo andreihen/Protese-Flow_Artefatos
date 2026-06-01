@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="sG_fT0Xi3UrrULlh50Qe">
+    <mxGraphModel dx="1288" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zcLHTVC35pNosIXgOyPP-6" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zcLHTVC35pNosIXgOyPP-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Início" vertex="1">
+          <mxGeometry height="50" width="75" x="150" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-23" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zcLHTVC35pNosIXgOyPP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="&lt;br&gt;Acessar o Dashboard&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="126.56" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-5" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zcLHTVC35pNosIXgOyPP-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Gestor" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-24" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zcLHTVC35pNosIXgOyPP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="&lt;div&gt;Selecionar um caso &quot;PENDENTE&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="122.5" x="126.25" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-25" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zcLHTVC35pNosIXgOyPP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="&lt;div&gt;Escolher um Operador&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="121.25" x="127.5" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-15" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zcLHTVC35pNosIXgOyPP-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="420" />
+              <mxPoint x="290" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="&lt;span style=&quot;text-align: left;&quot;&gt;Confirmar a atribuição&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="118.12" x="128.44" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Sistema" vertex="1">
+          <mxGeometry height="60" width="30" x="374.05999999999995" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-18" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zcLHTVC35pNosIXgOyPP-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="Vincular o operador ao pedido" vertex="1">
+          <mxGeometry height="40" width="118.12" x="330" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-21" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zcLHTVC35pNosIXgOyPP-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="506" y="250" />
+              <mxPoint x="506" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="Atualiza os indicadores do painel" vertex="1">
+          <mxGeometry height="40" width="118.12" x="329.99999999999994" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Operador" vertex="1">
+          <mxGeometry height="60" width="30" x="590.06" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-27" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zcLHTVC35pNosIXgOyPP-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="Verificar o painel de serviços" vertex="1">
+          <mxGeometry height="40" width="118.12" x="545.9999999999998" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-29" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zcLHTVC35pNosIXgOyPP-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="Abrir a página do pedido" vertex="1">
+          <mxGeometry height="40" width="118.12" x="545.9999999999998" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-31" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zcLHTVC35pNosIXgOyPP-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="Efetuar o download dos ativos" vertex="1">
+          <mxGeometry height="40" width="118.12" x="545.9999999999998" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-33" edge="1" parent="1" source="zcLHTVC35pNosIXgOyPP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zcLHTVC35pNosIXgOyPP-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="Clicar no botão &quot;Iniciar Produção&quot;" vertex="1">
+          <mxGeometry height="40" width="118.12" x="545.9999999999998" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="zcLHTVC35pNosIXgOyPP-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#331A00);strokeColor=light-dark(#000000,#FFB570);" value="Clicar no botão &quot;Iniciar Produção&quot;" vertex="1">
+          <mxGeometry height="40" width="118.12" x="329.99999999999983" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
